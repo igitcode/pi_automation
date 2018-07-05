@@ -1,0 +1,3 @@
+installed virtual env
+
+1) ran `virtualenv -p python3 slack_bot` to setup using python3
