@@ -2,3 +2,4 @@ slack_bot/bin
 slack_bot/lib
 slack_bot/include
 slack_bot/pip-selfcheck.json
+slack_bot/start.sh

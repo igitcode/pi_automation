@@ -1,3 +1,8 @@
 installed virtual env
 
-1) ran `virtualenv -p python3 slack_bot` to setup using python3
+ran: 
+1) `virtualenv -p python3 slack_bot` to setup using python3
+2) `cd slack_bot`
+3) `. bin/activate`
+4) `pip install slackclient`
+
