@@ -5,4 +5,4 @@ ran:
 2) `cd slack_bot`
 3) `. bin/activate`
 4) `pip install slackclient`
-
+5) `pip install python-twitter`
