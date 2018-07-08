@@ -51,7 +51,8 @@ def handle_command(command, channel):
     # Tweet United
     if command.startswith(UNITED_COMMAND):
         #response = "Sure...write some more code then I can do that!"
-        Tweet.post_message("@someone", "I love twitter-python")
+        message = command.partition(" ")
+        Tweet.post_message("@someone", message[2])
 
 
 
