@@ -6,3 +6,9 @@ ran:
 3) `. bin/activate`
 4) `pip install slackclient`
 5) `pip install python-twitter`
+6) `pip install tinydb`
+
+
+
+to test network speed:
+curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
